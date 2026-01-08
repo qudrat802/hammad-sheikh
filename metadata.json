@@ -1,0 +1,7 @@
+{
+  "name": "Hammad Sheikh bin Nadeem Portfolio",
+  "description": "A professional personal branding and portfolio website for Hammad Sheikh bin Nadeem, an AI Engineer and Teacher from Pakistan, featuring an interactive AI-powered assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
